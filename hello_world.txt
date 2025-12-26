@@ -1,2 +1,2 @@
 Some text added here
-Addid text to test Commit message in VSCode
+Add text to test Commit message in VSCode
